@@ -1,6 +1,6 @@
-# Otakudesu Anime Explorer
+# Anime Stream
 
-**Otakudesu Anime Explorer** adalah aplikasi web untuk menjelajahi dan mencari anime dari situs Otakudesu menggunakan API tidak resmi. Dibuat dengan Next.js 13 dan Tailwind CSS.
+**Anime Stream** adalah aplikasi web untuk menjelajahi dan mencari anime dari situs Otakudesu menggunakan API tidak resmi. Dibuat dengan Next.js 13 dan Tailwind CSS.
 
 > 🎯 Proyek ini menggunakan API dari: [https://github.com/wajik45/wajik-anime-api](https://github.com/wajik45/wajik-anime-api)
 
