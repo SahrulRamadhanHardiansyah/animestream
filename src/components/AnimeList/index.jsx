@@ -21,7 +21,7 @@ const AnimeList = ({ api }) => {
             </div>
             <h3 className="font-bold mt-2 md:text-xl text-md p-3 min-h-[56px]">{anime.title}</h3>
             <h3 className="font-bold md:text-md text-sm pl-3 pb-3">🎬 {anime.episodes} eps</h3>
-            {anime.score !== null && anime.score !== undefined && <h3 className="font-bold md:text-md text-sm pl-3 pb-3">⭐{anime.score}</h3>}
+            {anime.score !== null && anime.score !== undefined && <h3 className="font-bold md:text-md text-sm pl-3 pb-3">⭐ {anime.score}</h3>}
           </Link>
         ))}
     </div>
